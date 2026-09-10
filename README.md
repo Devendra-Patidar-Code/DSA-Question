@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
+| [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
