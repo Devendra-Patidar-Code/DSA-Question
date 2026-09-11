@@ -28,10 +28,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
+| [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
+| [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
@@ -47,5 +49,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
