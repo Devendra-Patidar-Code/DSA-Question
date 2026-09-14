@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -62,4 +63,12 @@
 | ------- |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
