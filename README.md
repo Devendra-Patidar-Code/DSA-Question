@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
+| [1480-running-sum-of-1d-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
