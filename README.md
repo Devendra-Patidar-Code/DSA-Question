@@ -10,6 +10,7 @@
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
