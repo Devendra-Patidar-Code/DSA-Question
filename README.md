@@ -20,6 +20,7 @@
 | [1920-build-array-from-permutation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
 | ------- |
