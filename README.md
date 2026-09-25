@@ -19,6 +19,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
