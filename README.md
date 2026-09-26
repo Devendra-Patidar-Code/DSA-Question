@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2574-left-and-right-sum-differences) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1512-number-of-good-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
