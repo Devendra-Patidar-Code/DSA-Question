@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0191-number-of-1-bits) |
 ## Matrix
@@ -147,5 +149,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
