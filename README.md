@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
+| [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
