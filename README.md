@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0136-single-number) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
