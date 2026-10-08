@@ -53,6 +53,7 @@
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -121,6 +124,7 @@
 | [0191-number-of-1-bits](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
