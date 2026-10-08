@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@
 | [0007-reverse-integer](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0231-power-of-two) |
