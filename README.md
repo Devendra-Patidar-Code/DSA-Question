@@ -44,6 +44,7 @@
 | [0027-remove-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0242-valid-anagram) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
