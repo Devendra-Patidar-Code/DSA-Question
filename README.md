@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0242-valid-anagram) |
