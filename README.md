@@ -71,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -103,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1512-number-of-good-pairs) |
