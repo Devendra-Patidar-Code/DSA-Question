@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0344-reverse-string) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
