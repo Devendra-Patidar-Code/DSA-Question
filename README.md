@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
