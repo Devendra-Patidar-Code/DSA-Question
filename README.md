@@ -57,6 +57,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -126,6 +127,7 @@
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -220,4 +222,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
