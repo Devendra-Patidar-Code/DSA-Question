@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
@@ -228,4 +229,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
