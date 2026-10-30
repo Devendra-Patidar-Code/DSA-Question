@@ -63,6 +63,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
@@ -97,6 +98,7 @@
 | [0383-ransom-note](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -134,6 +136,7 @@
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
@@ -236,5 +239,6 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
