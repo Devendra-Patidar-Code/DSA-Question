@@ -98,6 +98,7 @@
 | [0383-ransom-note](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -137,6 +138,7 @@
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
