@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0125-valid-palindrome) |
@@ -159,6 +160,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -247,4 +249,8 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
