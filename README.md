@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -231,6 +232,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
