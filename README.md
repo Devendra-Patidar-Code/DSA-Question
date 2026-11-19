@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
@@ -115,6 +116,7 @@
 | [0066-plus-one](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
