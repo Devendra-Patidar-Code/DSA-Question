@@ -4,34 +4,36 @@ import java.util.*;
 class Solution {
     public int evalRPN(String[] tokens) {
 
-        Stack<Integer> stack = new Stack<>();
+        Stack<Integer> st = new Stack<>();
 
-        for (String s : tokens) {
+        for (int i = 0; i < tokens.length; i++) {
+
+            String s = tokens[i];
 
             if (s.equals("+") || s.equals("-") ||
                 s.equals("*") || s.equals("/")) {
 
-                int b = stack.pop();
-                int a = stack.pop();
+                int b = st.pop();
+                int a = st.pop();
 
                 if (s.equals("+")) {
-                    stack.push(a + b);
+                    st.push(a + b);
                 }
                 else if (s.equals("-")) {
-                    stack.push(a - b);
+                    st.push(a - b);
                 }
                 else if (s.equals("*")) {
-                    stack.push(a * b);
+                    st.push(a * b);
                 }
                 else {
-                    stack.push(a / b);
+                    st.push(a / b);
                 }
-            }
-            else {
-                stack.push(Integer.parseInt(s));
+
+            } else {
+                st.push(Integer.parseInt(s));
             }
         }
 
-        return stack.pop();
+        return st.pop();
     }
 }
