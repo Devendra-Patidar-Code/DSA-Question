@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -167,6 +168,7 @@
 | [0155-min-stack](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -267,4 +269,8 @@
 | [0155-min-stack](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
