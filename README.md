@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@
 | [0389-find-the-difference](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1512-number-of-good-pairs) |
@@ -168,6 +170,7 @@
 | [0155-min-stack](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -272,5 +275,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
