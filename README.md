@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
@@ -171,6 +172,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -178,6 +180,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1929-concatenation-of-array) |
