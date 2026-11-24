@@ -152,6 +152,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -180,6 +181,7 @@
 | [0844-backspace-string-compare](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
