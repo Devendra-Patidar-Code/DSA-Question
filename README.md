@@ -69,6 +69,7 @@
 | [0392-is-subsequence](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -149,6 +150,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -174,6 +176,7 @@
 | [0496-next-greater-element-i](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -181,6 +184,7 @@
 | [0067-add-binary](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Devendra-Patidar-Code/DSA-Question/tree/master/1929-concatenation-of-array) |
